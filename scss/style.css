@@ -95,4 +95,7 @@ ul li::before {
   content: "👾";
   margin-right: 8px; }
 
+.bye {
+  text-align: center; }
+
 /*# sourceMappingURL=style.css.map */
